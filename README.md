@@ -1,4 +1,4 @@
-# Proejct of Api "AgendaApi"
+# Project of Api "AgendaApi"
 
 ## Topics of project: 
 
