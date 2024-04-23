@@ -7,24 +7,30 @@
 
 ### Description of this topics: 
 
-1.EndPoint First   : **[HttpPost]** insert a contact in our database. 
-   ![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/0beebbc8-855c-429f-b7cf-c0e8b33cdf23)
+1.EndPoint First   : **[HttpPost]** insert a contact in our database:
 
-2. EndPoint First  : **[HttpGet("{Id}")]** was created a  methods to find a  contacts in the agenda.
-   ![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/dc7246a8-74ca-4838-a54c-c0112039e834)
+![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/0beebbc8-855c-429f-b7cf-c0e8b33cdf23)
 
-3. EndPoint Second : **[HttpGet("ObterPorNome")]** search various contact in our list by any characteres.
-  ![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/e6a52a00-fbc1-4c13-95c5-0a402a4565b3)
+2. EndPoint First  : **[HttpGet("{Id}")]** was created a  methods to find a  contacts in the agenda:
+ 
+![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/dc7246a8-74ca-4838-a54c-c0112039e834)
+
+3. EndPoint Second : **[HttpGet("ObterPorNome")]** search various contact in our list by any characteres:
    
-4. EndPoint Third  : **[HttpPut("{Id}")]** Update our contact, in this case we can adjust something.
-   ![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/45a8616b-c92f-4799-b063-f8f94022dabc)
+![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/e6a52a00-fbc1-4c13-95c5-0a402a4565b3)
+   
+4. EndPoint Third  : **[HttpPut("{Id}")]** Update our contact, in this case we can adjust something:
+   
+![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/45a8616b-c92f-4799-b063-f8f94022dabc)
 
-   ## The Database: 
-   ![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/7269e48d-a6ab-4959-bdaf-842763014664)
+   ## The Database:
+   
+![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/7269e48d-a6ab-4959-bdaf-842763014664)
 
 
-6. EndPoint Fourth : **[HttpDelete("{Id}")]** delete the contact selected by **ID**.
-   ![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/11cf8403-d4b6-47a5-8399-d5fb0746c21a)
+5. EndPoint Fourth : **[HttpDelete("{Id}")]** delete the contact selected by **ID**:
+    
+![image](https://github.com/CarlosEngineer/AgendaApi/assets/106555840/11cf8403-d4b6-47a5-8399-d5fb0746c21a)
 
 
 ## Link of Project: 
